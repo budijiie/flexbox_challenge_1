@@ -43,7 +43,7 @@ h1 {
     /* display: flex => flex container */
     display: flex;
 
-    /* can't use yet */
+    /* thanks God now we can use it */
     /* gap: 100px; */
 }
 
